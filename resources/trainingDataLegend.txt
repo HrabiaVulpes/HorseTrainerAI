@@ -1,0 +1,32 @@
+How to write technical marks:
+
+[FROM][TO][SPEED][SHAPE]
+
+FROM & TO:
+    A-X single uppercase letter (17 options)
+SPEED:
+    single uppercase letter from options:
+        X - extended walk
+        W - walk
+        V - collected walk
+        I - extended trot
+        T - trot
+        Y - collected trot
+        G - extended canter
+        C - canter
+        O - collected canter
+        H - halt
+SHAPE:
+    single uppercase letter from options:
+        L - line
+        C - circle clockwise
+        F - circle anti-clockwise
+        B - big circle clockwise
+        G - big circle anti-clockwise
+        S - small circle clockwise
+        T - small circle anti-clockwise
+        D - semi-circle clockwise
+        P - semi-circle anti-clockwise
+        A - arc 1/4th of circle clockwise
+        z - arc 1/4th of circle anti-clockwise
+        H - halt
